@@ -1,9 +1,9 @@
 # Share-price-predictor
 
 # Requirements 
-python 
-keras 
-tensorflow
+1) python 
+2) keras 
+3) tensorflow
 
 # Model
 This is a simple LSTM model 
